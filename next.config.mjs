@@ -7,9 +7,7 @@ const nextConfig = {
                 hostname: 'lojaintegrada.com.br',
                 pathname: '/**',
                 port: '',
-            }
-        ],
-        remotePatterns: [
+            },
             {
                 protocol: 'https',
                 hostname: 'apod.nasa.gov',

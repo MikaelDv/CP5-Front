@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 export async function GET() {
     try {
         // https://api.nasa.gov/planetary/apod?count=1&api_key=TjenLEVuZAd7bT0ahlUfeyhUUgVEvaRyQTdmHBJB
-        const response = await fetch("https://api.nasa.gov/planetary/apod?api_key=kXO8zL2dtbE4EU9Uyv8bMDfrgCb0HbPr6FTJ5KCH&count=10");
+        const response = await fetch("https://api.nasa.gov/planetary/apod?count=10&api_key=kXO8zL2dtbE4EU9Uyv8bMDfrgCb0HbPr6FTJ5KCH&");
 
         if (!response.ok) {
             throw new Error(`Erro ao fazer o fetch: ${response.statusText}`);

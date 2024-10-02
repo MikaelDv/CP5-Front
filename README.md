@@ -1,30 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+   <h1>COLABORADORES</h1>   
+   <p>Mikale RM558887</p>   
+   <p>Murilo RM556794</p>   
+   <p>Paula  RM558277</p>   
+   
+</div>
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| NOMES                                                                                                                                                                                      |                                               GITHUB                                               |                                                                              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <a href="https://github.com/MikaelDv"><img src="https://img.shields.io/badge/DESENVOLVEDOR-ENZO%20MIKAEL%20-informational?style=for-the-badge&logo=appveyorlabelColor=FF00FF"></a> | <a  href="https://github.com/MikaelDv"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+|
+| <a href="https://github.com/Murilo-Capristo"><img src="https://img.shields.io/badge/DESENVOLVEDOR-MURILO%20CAPRISTO%20-informational?style=for-the-badge&logo=appveyorlabelColor=FF00FF"></a> | <a  href="https://github.com/Murilo-Capristo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+|
+| <a href="https://github.com/StaniukaitisPaula"><img src="https://img.shields.io/badge/DESENVOLVEDORA-PAULA%20BLESA%20STANIUKAITIS-informational?style=for-the-badge&logo=appveyorlabelColor=FF00FF"></a> | <a  href="https://github.com/StaniukaitisPaula"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+|
