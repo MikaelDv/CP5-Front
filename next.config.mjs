@@ -9,7 +9,17 @@ const nextConfig = {
                 port: '',
             }
         ],
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'apod.nasa.gov',
+                pathname: '/**',
+                port: '',
+            }
+        ],
     }
+
+
 };
 
 export default nextConfig;
