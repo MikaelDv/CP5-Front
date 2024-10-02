@@ -1,6 +1,9 @@
 
-export default function Calculo() {
+import { TipoImag } from "@/types";
+import Image from "next/image";
+import { useEffect, useState } from "react";
 
+export default function Calculo() {
     return (
         <main>
             <h1>Calculo de  Velikovsky </h1>

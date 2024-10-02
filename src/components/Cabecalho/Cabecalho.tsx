@@ -3,8 +3,6 @@ import Menu from "../Menu/Menu";
 import Link from "next/link";
 import "@/styles/cabecalho.css";
 
-// https://api.nasa.gov/planetary/apod?count=1&api_key=TjenLEVuZAd7bT0ahlUfeyhUUgVEvaRyQTdmHBJB
-
 export default function Cabecalho() {
     return (
         <header className="cabecalho">
