@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Menu from "../Menu/Menu";
+import "@/styles/cabecalho.css";
 
+// https://api.nasa.gov/planetary/apod?count=1&api_key=TjenLEVuZAd7bT0ahlUfeyhUUgVEvaRyQTdmHBJB
 
 export default function Cabecalho(){
     return(

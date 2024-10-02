@@ -1,7 +1,7 @@
-export default function Menu(){
-    return(
-        <main>
-            <h1> MENU</h1>
-        </main>
-    )
+import React from 'react'
+
+export default function Menu() {
+  return (
+    <div>Menu</div>
+  )
 }

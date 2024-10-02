@@ -1,8 +1,9 @@
+import "@/styles/rodape.css"
 export default function Rodape(){
 
     return(
-        <footer>
-            <h1 className="rodape"> Desenvolvido por AutoCare&copy;</h1>
+        <footer className="rodape">
+            <h1>&copy; 2024 - AutoCare Devs.</h1>
         </footer>
     )
 

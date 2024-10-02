@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .rodape{
+        @apply shadow-sm bg-slate-50 text-center 
+    }
+}
