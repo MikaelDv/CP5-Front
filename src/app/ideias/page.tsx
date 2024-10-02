@@ -1,3 +1,6 @@
 export default function Produtos(){
-    const 
+    const penis = "penis";
+    return (
+        <div><span>{penis}</span></div>
+    )
 }
