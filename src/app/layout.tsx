@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <body>
-        <Cabecalho/>
+        <Cabecalho />
         {children}
         <Rodape />
       </body>
