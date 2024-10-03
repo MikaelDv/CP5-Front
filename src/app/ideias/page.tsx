@@ -10,7 +10,7 @@ export default function Ideias() {
         <div className="ideias-wrapper">
             <ul className='flex gap-12'>
                 {listaTextos.map((t) => (
-                    <Link>
+                    <Link href={`/ideias/ideia/${t.id}`}>
                         <CardIdeia texto={t}/>
                     </Link>
                 ))}

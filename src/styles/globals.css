@@ -4,6 +4,19 @@
 
 @layer components {
     .main {
-        height: 88.8vh;
+        @apply 
+            bg-slate-50
+            dark:bg-slate-800;
+        height: 88.5vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .principal {
+        align-items: center;
+        gap: 5rem;
+        padding-top: 7.5rem;
+        padding-bottom: 7.5rem;
     }
 }
