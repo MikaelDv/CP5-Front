@@ -8,11 +8,8 @@ export default function Menu() {
             <nav>
                 <ul className="link-list">
                     <li className='mx-12'><Link className='Link' href="/">Home</Link></li>
-                    <li className='mx-12'><Link className='Link' href="/orbitas">Órbitas</Link></li>
-                    <li className='mx-12'><Link className='Link' href="/cronologia">Cronologia</Link></li>
-                    <li className='mx-12'><Link className='Link' href="/forcas">Forças</Link></li>
-                    <li className='mx-12'><Link className='Link' href="/velocidade">Velocidade</Link></li>
-                    <li className='mx-12'><Link className='Link' href="/calculo">Calculo</Link></li>
+                    <li className='mx-12'><Link className='Link' href="/ideias">Ideias</Link></li>
+                    <li className='mx-12'><Link className='Link' href="/calculo">Cálculo</Link></li>
                 </ul>
             </nav>
         </div>

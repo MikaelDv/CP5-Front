@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-    .main {
-        height: 88.8vh;
+    .card-texto {
+        width: 300px;
     }
 }

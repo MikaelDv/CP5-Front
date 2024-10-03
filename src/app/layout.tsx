@@ -12,7 +12,9 @@ export default function RootLayout({
     <html lang="pt-br">
       <body>
         <Cabecalho />
-        {children}
+        <main className="main">
+          {children}
+        </main>
         <Rodape />
       </body>
     </html>
